@@ -417,12 +417,13 @@ body {
         margin: auto;
         display: flex;
         flex-direction: column;
-        justify-content: start;
+        justify-content: center;
     }
 
     .blog-map {
-        width: 50%;
-        margin-right: auto;
+        width: 70%;
+        text-align: center;
+        overflow: hidden;
     }
 
     .blog-cap {
